@@ -1,7 +1,7 @@
-URL=http://localhost:9000
+URL=http://192.168.100.196:9000
 EXTERNAL=http://www.google.com
-INSTRUMENTED0=http://localhost:9000/wave/first
-INSTRUMENTED1=http://localhost:9000/error/sometimes
+INSTRUMENTED0=http://192.168.100.196/wave/first
+INSTRUMENTED1=http://192.168.100.196/error/sometimes
 $(URL)/wave/0
 $(URL)/wave/1
 $(URL)/wave/2
